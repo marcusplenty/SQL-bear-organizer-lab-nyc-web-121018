@@ -1,5 +1,5 @@
 CREATE TABLE bears (
-  id Integer,
-  name Text,
+  id INTEGER,
+  name TEXT,
   
 );
