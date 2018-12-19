@@ -1,3 +1,3 @@
 CREATE TABLE bears (
-  id //columns here
+  id Integer//columns here
 );
