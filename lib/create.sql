@@ -1,3 +1,1 @@
-CREATE TABLE bears (
-  //columns here
-);
+CREATE TABLE bears ( //columns here);
